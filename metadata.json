@@ -1,0 +1,7 @@
+{
+  "name": "D'Events - InvitedSystems",
+  "description": "A multi-partner event management platform with a dynamic invitation builder.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
